@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Dataset and local result copies of those photos
+DRDO_DATA_29-9;1-10/
+*.zip
+compare/
+outputs/

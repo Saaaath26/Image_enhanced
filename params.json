@@ -1,0 +1,17 @@
+{
+  "ref_width": 960,
+  "streak_length": 3,
+  "streak_threshold": 8.0,
+  "rain_score_min": 0.50,
+  "fog_score_min": 0.42,
+  "whiteout_std_max": 8.0,
+  "omega": 0.8,
+  "t0": 0.25,
+  "patch": 15,
+  "align_mad_max": 22.0,
+  "edge_miss_max": 0.22,
+  "min_aligned_frames": 3,
+  "max_related_frames": 12,
+  "clearer_fog_ratio": 0.75,
+  "clearer_contrast_ratio": 1.25
+}
